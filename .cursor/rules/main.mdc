@@ -1,0 +1,7 @@
+---
+description:
+globs:
+alwaysApply: true
+---
+
+项目根目录有个文件夹 forge-1.20.1-47.4.0_mapped_official_1.20.1-sources 。Minecraft 1.20.1与forge的代码都可以在里面找到
